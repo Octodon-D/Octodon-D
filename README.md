@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Rainer!
-To further expand my skills on data processing and analysis, I decided to complete a data science bootcamp straight after finishing my doctoral thesis in molecular ecology (biology). Equipped with an enormous amount of new knowledge and skills in Python and machine learning, I am now ready to dive into the depths of data science.
+After my studies and doctoral thesis in biology, I decided to complete the data science bootcamp by neuefische. Equipped with an enormous amount of new knowledge and skills, I am now ready to dive into the depths of data science.
 
 **Contact 📫 💬 me here:**
 
