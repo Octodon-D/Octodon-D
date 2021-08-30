@@ -1,8 +1,15 @@
 # Hi there 👋 I'm Rainer!
 
-## Languages and Tools: 
-- `r fa("r-project", fill = "steelblue")` R 
-- 🐍 Python
+Contact me here:
+
+Contact me here:
+
+<a href="https://www.linkedin.com/in/rainer-cramer/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+</p>
+
+You can find me on (LinkedIN)[https://www.linkedin.com/in/rainer-cramer/]
+
+#### Languages and Tools: 
 
 
 <!--
