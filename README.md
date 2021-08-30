@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 I'm Rainer!
+
+## Languages and Tools: 
+- `r fa("r-project", fill = "steelblue")` R 
+- 🐍 Python
+
 
 <!--
 **Octodon-D/Octodon-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
