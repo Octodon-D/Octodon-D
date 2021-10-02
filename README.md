@@ -7,11 +7,11 @@ After my studies and doctoral thesis in biology, I decided to complete the data 
 </p>
 
 # Projects 
-## [Dengue Pred](https://github.com/Octodon-D/DenguePred)
+### [Dengue Pred](https://github.com/Octodon-D/DenguePred)
 Dengue is a widespread, potentially deadly, viral disease transmitted by mosquitoes. Predictions of infection dynamics can help to optimize health care. We used predictive modeling to forecast the number of dengue cases over time for two cities in the Americas with the aid of environmental factors.
 
-## [Kickstarter](https://github.com/Octodon-D/kickstarter_project)
+### [Kickstarter](https://github.com/Octodon-D/kickstarter_project)
 A huge variety of factors contribute to the success or failure of a project — in general, and also on the popular crowdfunding platform Kickstarter. Some of these are able to be quantified or categorized, which allows for the construction of a model to attempt to predict whether a project will succeed or not. The aim of this project is to construct such a model and also to analyse Kickstarter project data more generally, in order to help potential project creators assess whether or not Kickstarter is a good funding option for them, and what their chances of success are.
 
-## [King County Housing](https://github.com/Octodon-D/project_house_price)
+### [King County Housing](https://github.com/Octodon-D/project_house_price)
 Sample project for exploratory data analysis (EDA) and predictive modeling. The goal is to implement the essential steps to find insights in the data and model this dataset with a multivariate linear regression to predict sale price of houses.
