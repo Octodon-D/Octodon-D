@@ -15,3 +15,6 @@ A huge variety of factors contribute to the success or failure of a project — 
 
 ### [King County Housing](https://github.com/Octodon-D/project_house_price)
 Sample project for exploratory data analysis (EDA) and predictive modeling. The goal is to implement the essential steps to find insights in the data and model this dataset with a multivariate linear regression to predict sale price of houses.
+
+### [Phytohormonal and transcriptional data processing and analysis with R](https://github.com/Octodon-D/phytohormonal-and-transcriptional-data-with-R)
+Within this repository I will give examples for the data processing and analysis I did with R as part of my doctoral thesis. More precisely I measured the accumulation of phytohormones and associated transcripts of defence related genes after different treatments. In both scripts the transcriptional / phytohormonal data is processed (organized, arranged, value calculation), then statistical analyses (linear mixed models) are conducted as well as visualizations (boxplots, barplots).
